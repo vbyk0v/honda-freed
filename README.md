@@ -32,28 +32,30 @@
 
 ## Оглавление
 
-1. [Тормозная система](docs/01-brake-system.md)
-2. [Перечень СТО](docs/02-sto-list.md)
-3. [Каталоги запчастей](docs/03-parts-catalogs.md)
+### Общая информация
+1. [Памятка по ТО](docs/01-maintenance-notes.md)
+2. [Каталоги запчастей](docs/02-parts-catalogs.md)
+3. [Инструкции пользователя](docs/03-user-manuals.md)
 4. [Номер кузова и ДВС](docs/04-body-engine-numbers.md)
-5. [Дворники](docs/05-wipers.md)
-6. [Инструкции пользователя](docs/06-user-manuals.md)
+
+
+### Обслуживание и эксплуатация
+5. [Тормозная система](docs/05-brake-system.md)
+6. [Дворники](docs/06-wipers.md)
 7. [Обслуживание вариатора](docs/07-cvt-service.md)
 8. [Аккумуляторы](docs/08-batteries.md)
-9. [Оптика и свет](docs/09-lighting.md)
-10. [Диски и шины](docs/10-wheels-tires.md)
-11. [Свечи](docs/11-spark-plugs.md)
-12. [Размеры автомобиля](docs/12-dimensions.md)
-13. [Проставки](docs/13-spacers.md)
-14. [Разобрать что-либо](docs/14-disassembly.md)
-15. [ПТФ](docs/15-fog-lights.md)
-16. [Антифриз / система охлаждения](docs/16-cooling-system.md)
-17. [Пост про гибриды](docs/17-hybrids.md)
-18. [Штатные магнитолы](docs/18-head-units.md)
-19. [Багажник на крышу](docs/19-roof-rack.md)
-20. [Смарт-ключ](docs/20-smart-key.md)
-21. [Сравнения с конкурентами](docs/21-comparisons.md)
-22. [Внедрение круиз-контроля](docs/22-cruise-control.md)
-23. [Опросы](docs/23-polls.md)
-24. [Защита картера](docs/24-engine-guard.md)
-25. [Ремонт привода зеркал](docs/25-mirror-repair.md)
+9. [Антифриз / система охлаждения](docs/09-cooling-system.md)
+10. [Оптика и свет](docs/10-lighting.md)
+11. [Диски и шины](docs/11-wheels-tires.md)
+12. [Свечи](docs/12-spark-plugs.md)
+13. [Смарт-ключ](docs/13-smart-key.md)
+14. [Штатные магнитолы](docs/14-head-units.md)
+
+### Тюнинг и доработки
+15. [Защита картера](docs/15-engine-guard.md)
+16. [Багажник на крышу](docs/16-roof-rack.md)
+17. [Проставки](docs/17-spacers.md)
+
+
+
+
