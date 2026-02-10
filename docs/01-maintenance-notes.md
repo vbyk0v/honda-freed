@@ -5,7 +5,10 @@
 # Памятка по ТО Honda Freed
 
 ## Моторное масло
-API SN / ILSAC GF-5 или API SP / ILSAC GF-6
+API SN / ILSAC GF-5
+
+API SP / ILSAC GF-6
+
 Объём 3,3 литра (при замене)
 
 ### Рекомендуемые масла
