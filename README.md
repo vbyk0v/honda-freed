@@ -1,5 +1,6 @@
-> ⚠️ **Дисклеймер**
+> ⚠️ **Дисклеймер / Disclaimer**
 >
+> **RU:**  
 > Данный репозиторий является **неофициальным архивом (бэкапом)** материалов,
 > ранее опубликованных в открытых источниках.
 >
@@ -12,6 +13,21 @@
 > Репозиторий создан **исключительно в информационных и справочных целях**,
 > не является коммерческим проектом и не претендует на авторство
 > исходных материалов.
+>
+> ---
+>
+> **EN:**  
+> This repository is an **unofficial archive (backup)** of materials
+> previously published in open sources.
+>
+> All trademarks, brand names, images, and other materials related to
+> **Honda** are the property of their respective rights holders.
+>
+> Rights to original texts, images, and other copyrighted materials
+> belong to **their authors and the owners of the corresponding Telegram channels**.
+>
+> This repository is provided **for informational and reference purposes only**,
+> is non-commercial, and does not claim authorship of the original materials.
 
 
 ## Оглавление
