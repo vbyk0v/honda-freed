@@ -31,23 +31,23 @@ API SP / ILSAC GF-6
 ### Тормозные колодки
  Бензин GB5/GB6
 
-* Диски перед G-brake GR-22675
+* Диски передние
+   + G-brake GR-22675
 * Колодки Передние:
- + REMSA 1358.02
- + NIBK PN8868
- + Nisshinbo NP-8013
- + AKEBONO AN-763WK
- + Cworks C11CR0026
- + Masuma MS-8904
- + Kashiyama D5070MH 
- + KashiyamaD5168M
- + ATE 13.0460-5620.2
- + Nissin NPO-152W-SA полный комплект
+   + REMSA 1358.02
+   + NIBK PN8868
+   + Nisshinbo NP-8013
+   + AKEBONO AN-763WK
+   + Cworks C11CR0026
+   + Masuma MS-8904
+   + Kashiyama D5070MH 
+   + KashiyamaD5168M
+   + ATE 13.0460-5620.2
+   + Nissin NPO-152W-SA полный комплект
 * Колодки задние:
- + Honda 43154SM4A02
-
+   + Honda 43154SM4A02
 * Ремкомплект 
- + 01463S0A010
+   + 01463S0A010
 
 
 ### Воздушный фильтр двигателя
