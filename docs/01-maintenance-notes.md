@@ -26,12 +26,11 @@
 - Honda DOT 4 08203-99938
 - Honda DOT 4 08203-99938HE
 
-### Тормозные колодки
- Бензин GB5/GB6
+### Тормозные колодки Бензин GB5/GB6
 
 * Диски передние
    + G-brake GR-22675
-* Колодки Передние:
+* Колодки передние
    + REMSA 1358.02
    + NIBK PN8868
    + Nisshinbo NP-8013
@@ -46,6 +45,35 @@
    + Honda 43154SM4A02
 * Ремкомплект 
    + 01463S0A010
+   
+### Тормозные колодки Гибрид GB7/GB8: 
+* Диски передние
+   + SB Nagamochi BR28168T
+* Диски задние
+   + JAPAN PARTS DP442C
+   + Nagamochi BR28169 
+   + GBrake GR01670
+* Колодки передние
+   + KASHIYAMA : D5214M 
+   + SB Nagamochi : BP28005
+   + NIBK : PN28005
+   + NIBK : PN8811
+   + NISSHINBO : NP-8026
+   + Masuma : MSC5006
+   + KASHIYAMA : D5214M
+   + Brembo : P28077
+   + Remsa : 1548.02
+   + CWORKS: C11CR1024
+   + AKEBONO AN-789WK
+   + TRW GDB3615
+* Колодки задние:
+   + KASHIYAMA D5066MH
+   + NIBK : PN8397 (сточить штырек с обратной стороны заподлицо)
+   + NIBK PN-8807
+   + LPR ITALY 05P1404
+   + TRW GDB774
+* Ремкомплект 
+   + Frenkit 238044
 
 
 ### Воздушный фильтр двигателя
