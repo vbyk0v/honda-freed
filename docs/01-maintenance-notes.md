@@ -86,6 +86,8 @@
 - Honda 80291-T5R-P01
 - Masuma MC-931
 - AMD AMD.FC818
+- BRONCO BRC-0401HC
+- VIC AC-808EX
 
 ### Свечи зажигания
 - Honda 12290-5R0-003  
